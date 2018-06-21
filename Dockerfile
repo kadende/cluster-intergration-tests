@@ -1,0 +1,1 @@
+FROM kadende/cluster-intergration-tests:base-image
